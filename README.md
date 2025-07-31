@@ -11,15 +11,17 @@ Each project includes:
 
 ## 🔍 Projects
 
-### 1. [Titanic Survival Prediction](./Titanic/)
-Predict survival on the Titanic using the classic Kaggle dataset. A binary classification problem that introduces data preprocessing, feature engineering, and logistic regression.
-
-### 2. [Iris Classification](./Iris%20classificatio/)
+### 1. [Iris Classification](./Iris%20classificatio/)
 A multiclass classification task using the Iris dataset. Learn how to train and evaluate simple classifiers like KNN and Decision Trees.
 
-### 3. [Wine Quality Prediction](./wine%20qualty/) *(Coming Soon)*
+### 2. [Titanic Survival Prediction](./Titanic/)
+Predict survival on the Titanic using the classic Kaggle dataset. A binary classification problem that introduces data preprocessing, feature engineering, and logistic regression.
+
+### 3. [Wine Quality Prediction](./wine%20qualty/)
 Predict wine quality (score between 0–10) based on chemical properties. This project explores regression models using the `sklearn.datasets.load_wine()` dataset.
 
+### 4. [Image Classifier](./image/)
+Predict which among 10 classes an image is to be classified to. A binary classification problem that introduces data preprocessing, feature engineering, and classification using Neural Nets (NN).
 ---
 
 ## 🧠 Skills Covered
@@ -57,3 +59,5 @@ Feel free to fork and contribute or use this as a starting point for your own jo
  Iris Classification ✅
 
  Wine Quality Regression ✅
+
+ Image Classifier (10 classes) ✅
